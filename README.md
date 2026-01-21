@@ -1,7 +1,7 @@
 <h1 align="center"><strong>My Essential Blender Files for Enfusion Work</strong></h1>
 
 
-## Character Weights T-Pose Template | ⚠️ IMPORTANT WORKFLOW NOTE
+<align="center">## Character Weights T-Pose Template | ⚠️ IMPORTANT WORKFLOW NOTE
 
 ### Do **NOT** add the Armature Modifier until the very end
 
