@@ -1,10 +1,8 @@
 <h1 align="center"><strong>My Essential Blender Files for Enfusion Work</strong></h1>
 
-**Rigging Helmets Wiki Page**
-https://community.bistudio.com/wiki/Arma_Reforger:Character_Gear_Creation/Headgear/Asset_Preparation
+**Rigging Helmets Wiki Page** - https://community.bistudio.com/wiki/Arma_Reforger:Character_Gear_Creation/Headgear/Asset_Preparation
 
-**Rigging Vests Wiki Page**
-https://community.bistudio.com/wiki/Arma_Reforger:Character_Gear_Creation/Vest/Asset_Preparation
+**Rigging Vests Wiki Page** - https://community.bistudio.com/wiki/Arma_Reforger:Character_Gear_Creation/Vest/Asset_Preparation
 
 
 ## ⚠️ IMPORTANT WORKFLOW NOTE for Character Weights T-Pose Template
